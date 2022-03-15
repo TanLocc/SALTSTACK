@@ -1,0 +1,4 @@
+'*':
+
+'Ubuntu1':
+ - apache
