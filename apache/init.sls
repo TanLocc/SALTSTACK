@@ -1,6 +1,6 @@
 install_apache:
  pkg.installed:
-  - pkg.latest:
+  - pkgs:
     - httpd
 index_html:
  file.managed:
